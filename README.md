@@ -15,11 +15,6 @@ VenusGT is designed to integrate multiple biological modalities while preserving
 
 The goal of the method is to improve the identification of rare, lineage-specific, and transitional states that are often missed by conventional clustering and multimodal integration approaches.
 
-## Poster
-
-You can view the project poster here:
-
-👉 [Download the poster (PDF)](EurIPS_poster_Venus_A1.pdf)
 
 ## Key ideas
 
