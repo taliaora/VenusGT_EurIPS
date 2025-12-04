@@ -1,4 +1,4 @@
-# Project status: This framework is actively under development and is planned for submission to a peer-reviewed journal. Because of this, we are currently limited in what can be shared publicly and are not yet posting full results beyond the work supplied to the EurIPS workshop. 
+### A disclaimer on the project status: This framework is actively under development and is planned for submission to a peer-reviewed journal. Because of this, we are currently limited in what can be shared publicly and are not yet posting full results beyond the work supplied to the EurIPS workshop. 
 
 # VenusGT: Trajectory-Aware Graph Transformer for Rare-Cell Discovery
 
