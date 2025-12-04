@@ -7,7 +7,7 @@
 
 # VenusGT: Trajectory-Aware Graph Transformer for Rare-Cell Discovery
 
-This repository hosts the poster and project description for **VenusGT**, a trajectory-aware graph learning framework for identifying rare and transitional cell populations in single-cell multi-omics data. In the future, we are planing on sharing the code, so whatch this repo :)
+This repository hosts the poster and project description for **VenusGT**, a trajectory-aware graph learning framework for identifying rare and transitional cell populations in single-cell multi-omics data. In the future, we are planing on sharing the code, so what this repo :)
 
 ## Overview
 
