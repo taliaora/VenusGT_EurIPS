@@ -2,6 +2,7 @@
 ### A disclaimer on the project status:
 *This framework is actively under development and is planned for submission to a peer-reviewed journal. Because of this, we are currently limited in what can be shared publicly and are not yet posting full results beyond the work supplied to the EurIPS workshop.*
 
+<img width="4320" height="2880" alt="image" src="https://github.com/user-attachments/assets/f8c8e927-29db-45f5-95d0-a052a9546386" />
 
 
 # VenusGT: Trajectory-Aware Graph Transformer for Rare-Cell Discovery
@@ -18,11 +19,7 @@ The goal of the method is to improve the identification of rare, lineage-specifi
 
 You can view the project poster here:
 
-👉 [Download the poster (PDF)](poster.pdf)
-
-Or preview it directly in the repository:
-
-![Poster preview](poster.png)
+👉 [Download the poster (PDF)](EurIPS_poster_Venus_A1.pdf)
 
 ## Key ideas
 
