@@ -1,6 +1,9 @@
 
 ### A disclaimer on the project status:
 *This framework is actively under development and is planned for submission to a peer-reviewed journal. Because of this, we are currently limited in what can be shared publicly and are not yet posting full results beyond the work supplied to the EurIPS workshop.*
+If you are interested in collaborating, discussing ideas, or learning more about the project, please contact the main author via LinkedIn:
+
+👉 https://www.linkedin.com/in/natalia-sikora-190902177/
 
 <img width="4320" height="2880" alt="image" src="https://github.com/user-attachments/assets/f8c8e927-29db-45f5-95d0-a052a9546386" />
 
@@ -43,9 +46,7 @@ We are actively looking for collaborators with interest in:
 - Trajectory inference
 - Representation learning in biology
 
-If you are interested in collaborating, discussing ideas, or learning more about the project, please contact the main author via LinkedIn:
 
-👉 https://www.linkedin.com/in/natalia-sikora-190902177/
 
 ## Citation
 
